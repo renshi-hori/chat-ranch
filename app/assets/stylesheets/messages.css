@@ -10,7 +10,7 @@
 .side-bar-header {
   height: 100px;
   padding: 0 20px;
-  background-color: #e49f45;
+  background-color: #68853b;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -31,7 +31,7 @@
 }
 
 .rooms {
-  background-color: #d8b280;
+  background-color: #667231;
   height: calc(100vh - 100px);
   padding: 0 20px;
   overflow: scroll;
@@ -70,8 +70,8 @@
 
 .header-button a {
   text-decoration: none;
-  border: 1px solid darkred;
-  color: darkred;
+  border: 1px solid rgb(6, 8, 5);
+  color: rgb(14, 19, 8);
   padding: 20px;
 }
 
@@ -114,7 +114,7 @@
 
 
 .form {
-  background-color: #DDDDDD;
+  background-color: #e2e1e1;
   height: 90px;
   padding: 20px 40px;
   display: flex;
@@ -134,7 +134,7 @@
 }
 
 .form-submit {
-  background-color: #38AEF0;
+  background-color: #51cfc5;
   border: none;
   color: white;
   font-size: 16px;
